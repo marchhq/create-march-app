@@ -4,7 +4,7 @@
 
 **The Ultimate SaaS Scaffold CLI** ✨
 
-*Build production-ready SaaS applications in minutes, not months*
+*From idea to production-ready SaaS in minutes.*
 
 [![npm version](https://badge.fury.io/js/create-march-app.svg)](https://badge.fury.io/js/create-march-app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
