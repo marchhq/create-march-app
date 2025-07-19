@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 
 import { Command } from "commander";
-// import { runCLI } from "./src/setup/index.js";
+import { runCLI } from "./src/setup/index.js";
 import { logger } from "./src/utils/core/logger.js";
 
 /**
@@ -17,8 +17,7 @@ async function main(): Promise<void> {
 		)
 		.version("1.0.0")
 		.action(async () => {
-			// await runCLI();
-      logger.info("Hello World");
+			await runCLI();
 		});
 
 	program.parse();
